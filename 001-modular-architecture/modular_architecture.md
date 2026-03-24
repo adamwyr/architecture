@@ -57,4 +57,4 @@ Adopting this structural framework yields four distinct advantages for engineeri
 
 ## EXAMPLE
 
-[Fit Module System](/architecture/001-modular-architecture/example/fit_module_system.md) - example of modular architecture.
+[Fit Module System](https://github.com/adamwyr/architecture/001-modular-architecture/example/fit_module_system.md) - example of modular architecture.
